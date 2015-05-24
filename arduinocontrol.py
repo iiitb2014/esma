@@ -1,9 +1,8 @@
 import serial
 import time
 import urllib, urllib2
-from BeautifulSoup import BeautifulSoup
 print("opening serial port")
-arduino= serial.Serial('/dev/ttyACM1',9600,timeout=1);
+arduino= serial.Serial('/dev/ttyACM0',9600,timeout=1);
 time.sleep(2)
 print("INTIALIZE Completed")
 l=range(10)
