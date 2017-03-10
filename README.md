@@ -1,7 +1,7 @@
 Electronic Student Movement Application
 =======================================
 
-Uses RFID cards issued to all students to maintain a log of students
+Uses RFID cards issued to students of an institute to maintain a log of students
 who went in/out of the college campus with the out time and in time.
 
 ![Image1](https://raw.githubusercontent.com/arkokoley/esma/master/Image1.jpg)
